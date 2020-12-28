@@ -1,0 +1,6 @@
+framework module Pods_SlateOfficial {
+  umbrella header "Pods-SlateOfficial-umbrella.h"
+
+  export *
+  module * { export * }
+}
