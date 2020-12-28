@@ -12,7 +12,7 @@ import ProgressHUD
 
 class MyFriendsTableViewController: UITableViewController, UISearchResultsUpdating {
     
-    //MARK: VAriables
+    //MARK: Variables
     var allUsers: [User] = []
     var allUsersGrouped = NSDictionary() as! [String : [User]]
     var filteredUsers: [User] = []
